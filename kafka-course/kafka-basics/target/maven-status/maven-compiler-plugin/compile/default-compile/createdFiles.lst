@@ -1,0 +1,9 @@
+simpletest/tutorial1/ConsumerDemoAssignAndSeek.class
+simpletest/tutorial1/ConsumerDemoGroup.class
+simpletest/tutorial1/ProducerDemoWithCallbacksKey$1.class
+simpletest/tutorial1/ConsumerDemo.class
+simpletest/tutorial1/KafkaProducer.class
+simpletest/tutorial1/ProducerDemo.class
+simpletest/tutorial1/ProducerDemoWithCallbacksKey.class
+simpletest/tutorial1/ProducerDemoWithCallbacks.class
+simpletest/tutorial1/ProducerDemoWithCallbacks$1.class
